@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kristiyan paunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan paunov" height="30" width="40" /></a>
-<a href="https://fb.com/kristiyan paunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kristiyan paunov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kristiyan-paunov-2329331a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kristiyan-paunov-2329331a5/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/kristian.krisi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kristian.krisi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
