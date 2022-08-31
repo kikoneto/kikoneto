@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristiyan Paunov</h1>
 <h3 align="center">A friendly and ambitious person, looking further to improve any kind of coding skills and also expand knowledge</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kikoneto" alt="kikoneto" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **kikoner81@gmail.com**
